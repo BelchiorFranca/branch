@@ -1,1 +1,6 @@
 criação da branch1
+
+
+for(int i = 0 ; i < n ; i ++){
+	cin >> a[i];
+}
